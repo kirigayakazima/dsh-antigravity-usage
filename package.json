@@ -2,7 +2,6 @@
   "name": "dsh-antigravity-usage",
   "version": "0.2.0",
   "description": "反重力（Antigravity）额度 / 用量监控：实时额度走本地语言服务器 API，离线用量只读扫本地会话库（反重力没开也能看历史）",
-  "private": true,
   "type": "module",
   "main": "lib/index.js",
   "icon": "./icon.svg",
