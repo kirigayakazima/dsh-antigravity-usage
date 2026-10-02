@@ -1,0 +1,6 @@
+# antigravity-usage bundle patch: inserts the Antigravity usage monitor plugin row.
+# (host half = package default export; name must be the full package name for
+# loader resolution inside the profile bundles tree.)
+- insert:
+    - id: antigravity-usage
+      name: "@dsh-external/antigravity-usage"

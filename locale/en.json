@@ -1,0 +1,4 @@
+{
+  "title": "Antigravity Usage",
+  "description": "Live-reads Antigravity token quota from its local language-server API and accumulates a local usage history."
+}
