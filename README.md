@@ -1,4 +1,4 @@
-# 反重力额度 / 用量 · @dsh-external/antigravity-usage
+# 反重力额度 / 用量 · dsh-antigravity-usage
 
 DSH 插件：把**反重力（Antigravity）的额度与用量**做成侧边栏竖排的一行「🛰️ 反重力额度」，
 点开在右侧主区域打开一个六标签专属整页。

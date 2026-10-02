@@ -3,4 +3,4 @@
 # loader resolution inside the profile bundles tree.)
 - insert:
     - id: antigravity-usage
-      name: "@dsh-external/antigravity-usage"
+      name: "dsh-antigravity-usage"

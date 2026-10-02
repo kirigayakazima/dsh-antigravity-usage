@@ -1,7 +1,7 @@
 // 从本地 DSH 服务器取回插件 bundle，确认对外提供的是哪一版（开发用）。
 // 用法: node scripts/fetch-bundle.mjs [port]
 const port = Number(process.argv[2] ?? 19387)
-const id = '@dsh-external/antigravity-usage'
+const id = 'dsh-antigravity-usage'
 
 const candidates = [
   `/plugins/??${id}/client.js&rev=0`,

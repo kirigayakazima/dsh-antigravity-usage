@@ -2,7 +2,7 @@
 // 用来确认宿主是否已经把改动后的 rev 推给了页面（即客户端 HMR 是否生效）。
 // 用法: node scripts/hmr-graph.mjs [port]
 const port = Number(process.argv[2] ?? 19387)
-const PLUGIN_ID = '@dsh-external/antigravity-usage'
+const PLUGIN_ID = 'dsh-antigravity-usage'
 
 const ac = new AbortController()
 const timer = setTimeout(() => ac.abort(), 12000)
